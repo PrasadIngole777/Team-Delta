@@ -1,0 +1,19 @@
+Notes of Day 1 : 
+
+• Aim of the course 
+ 	This course is designed to improve your Python skills . It covers advanced Python 	programming concepts, builds a solid development environment, teaches you how to use 	Git and GitHub, and goes in-depth with Numpy, Matplotlib, and the Manim animation 	engine.
+
+	You will know everything  about the Manim engine by the end of this course.
+
+• Installation of Python and virtual environment setup
+	Steps: 
+	1) Download the latest version of Python from the official website.
+	2) To check python is installed or not, Open terminal and type the command 'python -	version'.
+	3) if it is installed then you can also install many packages using command 'pip 	install package_name'.
+
+• VS code 
+	1) Go to any browser and download and install Visual studio code.
+	2) now install python extension by Microsoft.
+	3) Open folder, create files, and manage project directories
+	4) Now, we can start our python journey 
+	5) Execute scripts by running python script_name.py in your vs code terminal.
