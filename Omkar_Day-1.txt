@@ -1,0 +1,22 @@
+•   Course overview and objectives.
+
+The aim of this course is to help students become skilled and comfortable with Python by setting up a strong development environment, mastering Git and GitHub, and exploring advanced Python programming concepts. Additionally, the course will cover Numpy, Matplotlib, and provide comprehensive knowledge of the Manim animation engine.
+
+•   Installation of Python and virtual environment setup.
+1. First open your browser and paste https://www.python.org/downloads/ this link on it .
+2. Then select version as like you want to install and download it.
+3. Then go to download folder and install the python setup.
+4. To verify installation go to terminal and type python --version and press Enter to confirm that Python was installed correctly and is added to your PATH.
+5. For installing package again open terminal and type pip install package name.
+
+Introduction to Integrated Development Environments (IDEs)
+1. An integrated development environment (IDE) is a software application that helps programmers develop software code efficiently.
+
+• VSCode (Visual Studio Code)
+1. Download vscode from browser from given link https://code.visualstudio.com/download and install it on desktop.
+2. Set environment variables.
+3. It supports multiple programming languages.
+4. -Integrated Git support.
+
+
+
