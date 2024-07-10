@@ -1,0 +1,26 @@
+1. Visual Studio Code (VS Code)
+
+	-Lightweight and highly customizable.
+	-Has extensions (e.g., Python, Jupyter, Cpp).
+	-IntelliSense for smart code completion and syntax highlighting.
+	-Has Many User snipits
+	-Version control integration (Git, GitHub).
+	-Use Case: Suitable for both beginners and experienced developers due to its flexibility and extensive features.
+
+2. Sublime Text
+
+	-Extremely fast and lightweight.
+	-Powerful text editing capabilities with syntax highlighting and code folding.
+	-Package Control for easy installation of plugins and themes.
+	-Multiple selections and split editing for efficient coding.
+	-Distraction-free writing mode.
+	-Use Case: Ideal for quick edits and for users who prefer a minimalist and fast text editor.
+
+3. PyCharm
+
+	-Comprehensive IDE specifically designed for Python development.
+	-Advanced code navigation and search.
+	-Robust debugging and testing capabilities.
+	-Code refactoring tools.
+	-Integrated tools for database management and web development (Django, Flask).
+	-Intelligent code completion, inspections, and error highlighting.
