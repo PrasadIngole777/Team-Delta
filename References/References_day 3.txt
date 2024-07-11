@@ -1,0 +1,9 @@
+References for day 3 :
+
+Python Linting : (Only Watch First few minutes)
+	
+	https://youtu.be/dF1wWo2aJCo
+ 
+Code formatting with Black : 
+
+	https://youtu.be/A6S2nZAXgT8
