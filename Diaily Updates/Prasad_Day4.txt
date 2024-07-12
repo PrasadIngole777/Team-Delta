@@ -8,12 +8,13 @@ Debugging allows developers to:
 	
 	- Enhance their problem-solving and critical thinking skills
 
+
 Debugging in Different Programming Language :
 	Debugging strategies may vary depending on the programming language.
 
-	- In dynamic languages like Python, developers may rely on print statements and 	interactive debuggers
+	- In dynamic languages like Python, developers may rely on print statements and interactive debuggers
 
-	- In statically-typed languages like Java/Cpp, developers may use type checking 	and compile-time error messages
+	- In statically-typed languages like Java/Cpp, developers may use type checking and compile-time error messages
 
 
 Tools for Effective Debugging :
