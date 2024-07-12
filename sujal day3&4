@@ -1,0 +1,49 @@
+ Advanced IDE Features:
+1. Extensibility: Make your IDE better by adding new tools and features.
+2. Version Control Integration: Easily share code with others and keep track of changes.
+3. Code Autocompletion: Get helpful suggestions while writing code to avoid mistakes.
+4. Built-in Terminal: Run commands and scripts without leaving your IDE.
+5. Incorporating Libraries: Easily use popular libraries and frameworks in your project.
+Enhanced productivity with extensions.
+Smooth version control integration.
+Efficient coding with autocompletion.
+Convenient built-in terminal usage.
+Easy library incorporation.
+
+
+Linting:
+
+Checks code for errors and warnings
+Enforces coding standards and best practices
+Tools: Flake8, PyLint
+
+Formatting (PEP 8):
+Standardizes code layout and style
+Makes code more readable and maintainable
+Tool: Black
+Code Analysis:
+Checks code for type errors and inconsistencies
+Helps catch bugs and improve code quality
+Tool: MyPy
+Techniques and tools for effective debugging
+Benefits of Linting, Formatting, and Code Analysis Tools:
+
+Linting ensures code quality and adherence to standards.
+Black maintains consistent code formatting.
+MyPy catches type errors and improves code reliability.
+
+
+Techniques:
+Print statements: Temporarily add print statements to see variable values and code flow.
+Breakpoints: Pause code execution at specific points to inspect variables and expressions.
+Divide and conquer: Isolate issues by dividing code into smaller sections and testing each part.
+Tools:
+PDB
+VS Code Debugger
+PyCharm Debugger
+Effective Debugging Techniques and Tools:
+
+Print statements provide quick insights.
+Breakpoints offer detailed inspection.
+Dividing and conquering isolates issues.
+PDB enables step-by-step debugging.
