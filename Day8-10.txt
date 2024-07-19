@@ -1,0 +1,52 @@
+1. Complex Data Structures:
+? Lists:
+? Lists are ordered collections of items.
+? You can access elements by their index (e.g., my_list[0]).
+? Lists can hold any type of data (e.g., numbers, strings, other lists).
+? You can modify, add, or remove items from a list.
+? Example: my_list = [1, 2, 3, 'apple', [4, 5]]
+? Sets:
+? Sets are unordered collections of unique elements.
+? They don't allow duplicates.
+? You can perform set operations like union, intersection, and difference.
+? Example: my_set = {1, 2, 3, 3, 4}
+? Dictionaries:
+? Dictionaries (or dicts) are key-value pairs.
+? You associate values with specific keys for efficient look-up.
+? Example: my_dict = {'name': 'Alice', 'age': 30}
+? Tuples:
+? Tuples are similar to lists but are immutable (cannot be modified after creation).
+? They're often used for fixed data, such as coordinates or RGB color values.
+? Example: my_tuple = (10, 20, 30)
+2. List Comprehensions:
+? List comprehensions provide a concise way to create lists based on existing lists.
+? They allow you to apply an expression to each item in the original list and filter the results.
+? Example: squares = [x**2 for x in range(10)]  # Creates a list of squares from 0 to 9
+3. Generator Expressions:
+? Generator expressions create iterators (generators) instead of lists.
+? They're memory-efficient because they produce values on-the-fly.
+? Example: even_numbers = (x for x in range(100) if x % 2 == 0)  # Generates even numbers
+4. Decorators:
+? Decorators modify other functions or methods.
+? They allow you to add behavior (e.g., logging, authentication) to existing functions without changing their code.
+? Example: def log_function_call(func):
+    def wrapper(*args, **kwargs):
+        print(f"Calling {func.__name__} with args: {args}, kwargs: {kwargs}")
+        return func(*args, **kwargs)
+    return wrapper
+
+@log_function_call
+   def greet(name):
+    return f"Hello, {name}!"
+
+result = greet("Alice")  # Calls greet() and logs the function call
+5. Context Managers:
+? Context managers help manage resources (e.g., files, database connections).
+? They ensure proper setup and cleanup.
+? Use the with statement to create context managers.
+? Example (working with files): with open("my_file.txt", "r") as file:
+         content = file.read()
+    # File is automatically closed when exiting the block
+
+
+
