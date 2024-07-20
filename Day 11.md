@@ -1,9 +1,7 @@
-#
-Python Class and Objects
+# Python Class and Objects
 A class is a blueprint or a template for creating objects, providing initial values for state (member variables or attributes), and implementations of behavior (member functions or methods). The user-defined objects are created using the class keyword.
 
-##
-Creating a Class:
+## Creating a Class:
 Let us now create a class using the class keyword.
 ```py
 class Details:
