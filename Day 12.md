@@ -2,7 +2,7 @@
 
 ### What is Inheritance?
 ```
-Inheritance is a way to create a new class based on an existing class. The new class inherits all the properties and behavior of the existing class and can also add new properties and behavior or override the ones inherited.
+Inheritance is a way to create a new class based on an existing class. The new class inherits all the properties and behavior of the existing class and can also add new properties and  behavior or override the ones inherited.
 ```
 ### Why Use Inheritance?
 ```
@@ -123,3 +123,28 @@ class BankAccount {
 }
 ```
 In this example, the BankAccount class encapsulates the balance data and provides public methods (deposit(), withdraw(), and getBalance()) to interact with it, while hiding the implementation details.
+
+Abstract Base Classes (ABCs)
+```
+An abstract base class is a class that cannot be instantiated on its own and exists to be inherited by other classes.
+```
+Use:
+```
+Create a common base class for related classes
+
+Force the class to implement some of its methods
+
+Anonymous method (Provide default implementation for methods)
+```
+Interfaces
+```
+Interface is an abstract class in C# which contains only the declaration of methods.
+```
+Use:
+```
+A simple Interface, so defining contract that need to be implemented by classes
+
+Separate class dependencies
+
+Provide a way to test classes
+```
