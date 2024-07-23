@@ -1,6 +1,7 @@
 ## Lambda Function
 ```
-Map takes a function and an iterable (e.g., list, string) (or more than one iterable), applies the function to all items in that input iterables, and returns map object which is lazy.
+Map takes a function and an iterable (e.g., list, string) (or more than one iterable), applies the function to
+all items in that input iterables, and returns map object which is lazy.
 ```
 ### Syntax:
 ```py
