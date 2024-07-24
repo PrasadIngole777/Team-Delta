@@ -1,3 +1,4 @@
+# Numpy
 An amazing library for numerical computing in Python is NumPy (Numerical Python). It deals with the manipulation of arrays, matrices and other mathematical operations that can be applied to these data structures.
 
 ### Key Features of NumPy:
