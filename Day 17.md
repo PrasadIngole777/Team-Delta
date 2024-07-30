@@ -1,8 +1,8 @@
 ### Advanced multidimensional array operations.
 Definition:
 ```
-A multidimensional array is defined as a collection of elements, each of which is identified by a tuple of indices (i, j, k, ...),where each index corresponds to a dimension.
-The number of dimensions is called the rank or order of the array.
+A multidimensional array is defined as a collection of elements, each of which is identified by a tuple of indices (i, j,
+k, ...),where each index corresponds to a dimension.The number of dimensions is called the rank or order of the array.
 ```
 ## Finding the dimensions of the Array:
 ```py
