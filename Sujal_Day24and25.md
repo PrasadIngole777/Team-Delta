@@ -2,7 +2,7 @@
 
 #### Day 24-25: Intermediate Techniques in Manim
 
-v
+
 ---
 
 ### 1. **Utilization of VGroup and Other Grouping Methods**
