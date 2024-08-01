@@ -22,7 +22,8 @@ plt.plot(x,y)
 plt.show()
 ```
 Output:
-https://www.w3schools.com/python/img_matplotlib_subplots1.png
+![image](https://github.com/user-attachments/assets/52dce5ec-cc7c-47dd-b765-a9a0b293272b)
+
 
 ### Subplot Function:
 ~The subplot() function takes three arguments that describes the layout of the figure.
@@ -49,7 +50,8 @@ plt.plot(x,y)
 plt.show()
 ```
 Result:
-https://www.w3schools.com/python/img_matplotlib_subplots2.png
+![image](https://github.com/user-attachments/assets/764d81d0-b9de-443d-ab2e-aa048cc3501b)
+
 
 ### Scatter Plot:
 ```py
@@ -63,7 +65,7 @@ plt.scatter(x, y)
 plt.show()
 ```
 Output:
-https://www.w3schools.com/python/img_matplotlib_scatter.png
+![image](https://github.com/user-attachments/assets/53803c02-b5df-4012-bc5f-cd917d7eeaa4)
 
 ### Bar Plot:
 ```py
@@ -77,7 +79,7 @@ plt.bar(x, y, color = "red")
 plt.show()
 ```
 Result:
-https://www.w3schools.com/python/img_matplotlib_bars_red.png
+![image](https://github.com/user-attachments/assets/641e5c54-39d8-4429-989d-38441cb3c771)
 
 ### Pie Plot:
 ```py
@@ -91,7 +93,7 @@ plt.pie(y, labels = mylabels)
 plt.show()
 ```
 Result:
-https://www.w3schools.com/python/img_matplotlib_pie_labels.png
+![image](https://github.com/user-attachments/assets/bfd83c93-e26e-4fa5-bc01-ae68ce6bb28c)
 
 ### Line Plot:
 ```py
@@ -107,4 +109,4 @@ plt.plot(y2)
 plt.show()
 ```
 Result:
-https://www.w3schools.com/python/img_matplotlib_line_two.png
+![image](https://github.com/user-attachments/assets/1a4289ca-a0a0-4d61-9d62-f505307fc28d)
