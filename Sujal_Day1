@@ -5,7 +5,7 @@ You'll learn to set up a robust development environment, master Git and GitHub,
 and delve into advanced Python programming concepts. The course will also cover 
 Numpy, Matplotlib, and provide a thorough understanding of the Manim animation engine.
 
-# Installing Python and Setting Up a Virtual Environment
+##Installing Python and Setting Upba Virtual Environment
 
 1. Open your browser and navigate to [Python Downloads](https://www.python.org/downloads/).
 2. Choose the version you want to install and download it.
