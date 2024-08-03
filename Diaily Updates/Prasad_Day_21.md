@@ -24,3 +24,7 @@ Installation and Configuration of Manim Engine :
   * from manim import * : Imports the Manim library.
   * class MyScene(Scene) : Defines a new scene class that inherits from Manim's Scene class.
   * def construct(self) : Defines the construct method, which is where you'll write your animation code.
+
+You can render this scene by running :
+
+    manim -p -ql ClassName
